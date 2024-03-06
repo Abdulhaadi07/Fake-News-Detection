@@ -12,10 +12,11 @@ platforms struggle to combat this issue, emphasizing the importance of automated
 ## Related Work
 Several studies and research efforts have explored various methodologies for fake news detection. From leveraging machine learning algorithms to analyzing social media data, these approaches aim to develop robust systems capable of discerning between genuine and false information sources.
 
+![image](https://github.com/Abdulhaadi07/Fake-News-Detection/assets/144552790/a63add74-c013-46a7-900f-6d956c57d4cc)
+
 ## Proposed System
 The Fake News Detection System involves preprocessing and cleaning the data, applying feature engineering techniques, and employing machine learning algorithms for classification. Key components include understanding the characteristics of fake news, selecting appropriate machine learning algorithms, and evaluating their accuracy.
 
-![image](https://github.com/Abdulhaadi07/Fake-News-Detection/assets/144552790/a63add74-c013-46a7-900f-6d956c57d4cc)
 
 ## Methodology and Implementations
 The methodology comprises essential steps such as data collection, preprocessing, analyzing the data, selecting and training machine learning models, and testing and predicting outcomes. Techniques such as Count Vectorizer and TF-IDF Vectorizer are utilized for feature engineering, transforming textual data into numerical representations suitable for machine learning algorithms.
